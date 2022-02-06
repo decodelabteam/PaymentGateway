@@ -1,0 +1,10 @@
+
+Authorize Developer website:
+	- https://developer.authorize.net/
+	- https://sandbox.authorize.net/
+	
+API Credentials and Keys
+	- API Login ID:	2eF5NV5yL
+	- Transaction Key: 5Y4z33JU284PjEc4
+	
+
